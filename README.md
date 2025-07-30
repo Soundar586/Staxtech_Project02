@@ -34,5 +34,6 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 git clone https://github.com/Soundar586/Staxtech_Project02
 cd simple-calculator
 
-3.Run the program
+3.Run the program:
+
 python calculator.py
