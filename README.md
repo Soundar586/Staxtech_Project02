@@ -31,7 +31,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
    python --version
 2.Clone repository
 
-git clone https://github.com/Soundar586/simple-calculator.git
+git clone https://github.com/Soundar586/Staxtech_Project02
 cd simple-calculator
 
 3.Run the program
